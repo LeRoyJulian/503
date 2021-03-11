@@ -1,0 +1,13 @@
+{
+    "name": "leroyjulian/503",
+    "authors": [
+        {
+            "name": "Julian Vogin",
+            "email": "contact@digitalkids.fr"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.3",
+        "phpmailer/phpmailer": "^6.3"
+    }
+}
